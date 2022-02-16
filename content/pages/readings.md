@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 7773c6ee-8b86-c412-a444-dc73468d27cd
 ---
@@ -26,7 +29,7 @@ Topics
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="1" >}}
 
 
 Complete information: Rationalizability, Nash equilibrium, epistemic foundations
@@ -34,7 +37,7 @@ Complete information: Rationalizability, Nash equilibrium, epistemic foundations
   
  
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="1" >}}
 
 
 \[Game Theory\] Chapters 1 and 2.
@@ -50,10 +53,10 @@ Aumann, Robert, and Adam Brandenburger. "[Epistemic Conditions for Nash Equilibr
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="1" >}}
 ﻿Incomplete information: Bayesian Nash equilibrium, interim correlated rationalizability  
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="1" >}}
 
 
 Brandenburger, Adam, and Eddie Dekel. "[Hierarchies of Beliefs and Common Knowledge](http://dx.doi.org/10.1006/jeth.1993.1012)." _Journal of Economic Theory_ 59, no. 1 (1993): 189–98.

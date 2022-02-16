@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information regarding game theory.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-126-game-theory-spring-2016/25c82e8213fd23daa72c9382e921a2b0_MIT14_126S16_cooperative.pdf
+file: /media/courses/14-126-game-theory-spring-2016/25c82e8213fd23daa72c9382e921a2b0_MIT14_126S16_cooperative.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 14.126 Spring 2016 Cooperative Games Lecture Notes
 uid: 25c82e82-13fd-23da-a72c-9382e921a2b0
