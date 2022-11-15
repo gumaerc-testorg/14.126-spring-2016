@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The syllabus contains grading information and a detailed course calendar.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -16,7 +17,7 @@ Recitations: 1 session / week, 1 hour / session
 Prerequisite
 ------------
 
-[_14.122 Microeconomic Theory II_](/courses/14-122-microeconomic-theory-ii-fall-2002/) is the prerequisite for this course.
+[_14.122 Microeconomic Theory II_](/courses/14-122-microeconomic-theory-ii-fall-2002) is the prerequisite for this course.
 
 Grading
 -------
