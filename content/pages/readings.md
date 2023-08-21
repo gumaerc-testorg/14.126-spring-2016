@@ -1,158 +1,108 @@
 ---
 content_type: page
+description: This section contains a detailed list of readings by topic.
+draft: false
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 7773c6ee-8b86-c412-a444-dc73468d27cd
 ---
+\[Game Theory\] = ![Buy at MIT Press](/images/mp_logo.gif) Fudenberg, Drew, and Jean Tirole. _Game Theory_. MIT Press, 1991. ISBN: 9780262061414.
 
- \[Game Theory\] = [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262061414) Fudenberg, Drew, and Jean Tirole. _Game Theory_. MIT Press, 1991. ISBN: 9780262061414.
-
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 Topics
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
  Readings
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< thclose >}}{{< thopen >}}
+ 
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **1\. Solution Concepts for Static Games**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen rowspan="1" >}}
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen rowspan="1" >}}
 
 Complete information: Rationalizability, Nash equilibrium, epistemic foundations
 
-  
  
-{{< tdclose >}}
-{{< tdopen rowspan="1" >}}
 
+{{< tdclose >}}{{< tdopen rowspan="1" >}}
 
 \[Game Theory\] Chapters 1 and 2.
 
-Bernheim, B. Douglas. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Rationalizable Strategic Behavior." (PDF)](https://www.parisschoolofeconomics.eu/docs/guesnerie-roger/bernheim84.pdf) _Econometrica_ 52, no. 4 (1984): 1007–28.
+Bernheim, B. Douglas. ["Rationalizable Strategic Behavior." (PDF)](https://www.parisschoolofeconomics.eu/docs/guesnerie-roger/bernheim84.pdf) _Econometrica_ 52, no. 4 (1984): 1007–28.
 
 Pearce, David G. "[Rationalizable Strategic Behavior and the Problem of Perfection](http://www.jstor.org/stable/1911197)." _Econometrica_ 52, no. 4 (1984): 1029–50.
 
-Aumann, Robert, and Adam Brandenburger. "[Epistemic Conditions for Nash Equilibrium](http://www.jstor.org/stable/2171725)." _Econometrica_ 63_,_ no. 5 (1995): 1161–80.
+Aumann, Robert, and Adam Brandenburger. "[Epistemic Conditions for Nash Equilibrium](http://www.jstor.org/stable/2171725)." _Econometrica_ 63,  no. 5 (1995): 1161–80.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen rowspan="1" >}}
-﻿Incomplete information: Bayesian Nash equilibrium, interim correlated rationalizability  
-{{< tdclose >}}
-{{< tdopen rowspan="1" >}}
-
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen rowspan="1" >}}
+﻿Incomplete information: Bayesian Nash equilibrium, interim correlated rationalizability
+{{< tdclose >}}{{< tdopen rowspan="1" >}}
 
 Brandenburger, Adam, and Eddie Dekel. "[Hierarchies of Beliefs and Common Knowledge](http://dx.doi.org/10.1006/jeth.1993.1012)." _Journal of Economic Theory_ 59, no. 1 (1993): 189–98.
 
-Dekel, Eddie, Drew Fudenberg, and Stephen Morris.![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Interim Correlated Rationalizability" (PDF)](https://econtheory.org/ojs/index.php/te/article/viewFile/20070015/1059/47) _Theoretical Economics,_ no. 2 (2007): 15–40.
+Dekel, Eddie, Drew Fudenberg, and Stephen Morris.["Interim Correlated Rationalizability" (PDF)](https://econtheory.org/ojs/index.php/te/article/viewFile/20070015/1059/47) _Theoretical Economics,_ no. 2 (2007): 15–40.
 
-———. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Topologies On Types." (PDF)](https://econtheory.org/ojs/index.php/te/article/viewArticle/20060275) _Theoretical Economics,_ no_._ 1 (2006): 275–309.
+———. ["Topologies On Types." (PDF)](https://econtheory.org/ojs/index.php/te/article/viewArticle/20060275) _Theoretical Economics,_ no. 1 (2006): 275–309.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **2\. Solution Concepts for Extensive-Form Games**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Backwards induction, subgame perfection, iterated conditional dominance
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 \[Game Theory\] Chapter 3.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Bargaining with complete information
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Rubinstein, Ariel. "[Perfect Equilibrium in a Bargaining Model](http://www.jstor.org/stable/1912531)." _Econometrica_ 50, no. 1 (1982): 97–109.
 
-Manea, Mihai. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Bargaining in Dynamic Markets." (PDF)](http://economics.mit.edu/files/12432) (2012).
+Manea, Mihai. ["Bargaining in Dynamic Markets." (PDF)](http://economics.mit.edu/files/12432) (2012).
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="2" >}}
-**3\. Equilibrium Concepts for Games with Imperfect Information** 
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}
+**3\. Equilibrium Concepts for Games with Imperfect Information**
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Sequential, perfect, and proper equilibria
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 \[Game Theory\] Chapter 8. 
 
 Kreps, David M., and Robert Wilson. "[Sequential Equilibrium](http://www.jstor.org/stable/1912767)." _Econometrica_ 50, no. 4 (1982): 863–94. 
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="2" >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}
 **4\. Signaling and Forward Induction**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Stable equilibrium, the intuitive criterion, iterated weak dominance, epistemic foundations
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 \[Game Theory\] Chapters 8 and 11.
 
 Kohlberg, Elon, and Jean-Francois Mertens. "[On the Strategic Stability of Equilibria](http://www.jstor.org/stable/1912320)." _Econometrica_ 54, no. 5 (1986): 1003–37.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Cho, In-Koo, and David M. Kreps. ["Signaling Games and Stable Equilibria." (PDF)](https://www2.bc.edu/thomas-chemmanur/phdfincorp/MF891%20papers/Cho%20Kreps%201987.pdf) _The Quarterly Journal of Economics_ 102, no. 2 (1987): 179–221.
+Cho, In-Koo, and David M. Kreps. ["Signaling Games and Stable Equilibria." (PDF)](https://www2.bc.edu/thomas-chemmanur/phdfincorp/MF891%20papers/Cho%20Kreps%201987.pdf) _The Quarterly Journal of Economics_ 102, no. 2 (1987): 179–221.
 
 Battigalli, Pierpaola, and Marciano Siniscalchi. "[Strong Belief and Forward Induction Reasoning](http://dx.doi.org/10.1006/jeth.2001.2942)." _Journal of Economic Theory_ 106, no. 2 (2002): 356–91.
 
-Govindan, Srihari, and Robert Wilson ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[On Forward Induction](http://dx.doi.org/10.3982/ECTA6956)." _Econometrica_ 77, no. 1 (2008): 1–28.
+Govindan, Srihari, and Robert Wilson "[On Forward Induction](http://dx.doi.org/10.3982/ECTA6956)." _Econometrica_ 77, no. 1 (2008): 1–28.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 **5**. **Repeated Games**
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 \[Game Theory\] Chapter 5.
 
@@ -162,28 +112,19 @@ Abreu, Dilip, David Pearce, and Ennio Stacchetti. "[Toward a Theory of Discounte
 
 Abreu, Dilip, Paul Milgrom, and David Pearce. "[Information and Timing in Repeated Partnerships](http://www.jstor.org/stable/2938286)." _Econometrica_ 59, no. 6 (1991): 1713–33.
 
-Fudenberg, Drew, David Levine, and Eric Maskin. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Folk Theorem with Imperfect Public Information." (PDF - 2.0MB)](https://scholar.harvard.edu/maskin/publications/folk-theorem-imperfect-public-information) _Econometrica_ 62, no. 5 (1994): 997–1039.
+Fudenberg, Drew, David Levine, and Eric Maskin. ["The Folk Theorem with Imperfect Public Information." (PDF - 2.0MB)](https://scholar.harvard.edu/maskin/publications/folk-theorem-imperfect-public-information) _Econometrica_ 62, no. 5 (1994): 997–1039.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **6\. Reputation Formation**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Reputation with short-lived opponents
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 \[Game Theory\] Chapter 9.
 
-Kreps, David M., and Robert Wilson. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Reputation and Imperfect Information." (PDF - 1.6MB)](http://slantchev.ucsd.edu/courses/pdf/kreps-jet1982v27n2.pdf) _Journal of Economic Theory_ 27, no. 2 (1982): 253–79.
+Kreps, David M., and Robert Wilson. ["Reputation and Imperfect Information." (PDF - 1.6MB)](http://slantchev.ucsd.edu/courses/pdf/kreps-jet1982v27n2.pdf) _Journal of Economic Theory_ 27, no. 2 (1982): 253–79.
 
 Milgrom, Paul, and John Roberts. "[Predation, Reputation and Entry Deterrence](http://dx.doi.org/10.1016/0022-0531(82)90031-X)." _Journal of Economic Theory_ 27, no. 2 (1982): 280–312.
 
@@ -191,16 +132,11 @@ Kreps, David M., Paul Milgrom, et al. "[Rational Cooperation in the Finitely Rep
 
 Levine, David K., and Drew Fudenberg. "[Reputation and Equilibrium Selection in Games with a Patient Player](http://www.econometricsociety.org/publications/econometrica/1989/07/01/reputation-and-equilibrium-selection-games-patient-player)." _Econometrica_ 57, no. 4 (1989): 759–78.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Screening and reputation in bargaining
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 \[Game Theory\] Chapter 10.
 
@@ -208,16 +144,11 @@ Gul, Faruk,  Hugo Sonnenschein, and Robert Wilson. "[Foundations of Dynamic Mon
 
 Abreu, Dilip, and Faruk Gul. "[Bargaining and Reputation](http://dx.doi.org/10.1111/1468-0262.00094)." _Econometrica_ 68, no. 1 (2000): 85–117.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 **7\. Supermodular Games**
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Milgrom, Paul, and John Roberts. "[Rationalizability and Learning in Games with Strategic Complementarities](http://www.jstor.org/stable/2938316)." _Econometrica_ 58, no. 6 (1990): 1255–77.
 
@@ -227,39 +158,27 @@ Topkis, Donald M. _Supermodularity and Complementarity_. Princeton University Pr
 
 Van Zandt, Timothy, and Xavier Vives. "[Monotone Equilibria in Bayesian Games of Strategic Complementarities](http://dx.doi.org/10.1016/j.jet.2006.02.009)." _Journal of Economic Theory_ 134, no. 1 (2007): 339–60.
 
-Immorlica, Nicole, Rachel Kranton, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Social Status in Networks](https://www.aeaweb.org/articles?id=10.1257/mic.20160082)." (2015).
+Immorlica, Nicole, Rachel Kranton, et al. "[Social Status in Networks](https://www.aeaweb.org/articles?id=10.1257/mic.20160082)." (2015).
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 **8\. Global Games**
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Carlsson, Hans, and Eric van Damme. “[Global Games and Equilibrium Selection](https://www.jstor.org/stable/2951491?seq=1#page_scan_tab_contents).” _Econometrica_ 61, no. 5 (1993): 989–1018.
 
 Morris, Stephen, and Hyun Song Shin. “[Unique Equilibrium in a Model of Self-­Fulfilling Attacks](http://www.jstor.org/stable/116850?seq=1#page_scan_tab_contents).” _American Economic Review_ 88, no. 3 (1998): 587-­597.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="2" >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}
 **9\. Cooperative Games**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Nash bargaining solution, core, Shapley value
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Nash, John F. “[The Bargaining Problem](https://www.jstor.org/stable/1907266?seq=1#page_scan_tab_contents).” _Econometrica_ 18, no. 2 (1950): 155–162.
 
@@ -267,16 +186,11 @@ Nash, John F. “[The Bargaining Problem](https://www.jstor.org/stable/1907266?s
 
 Manea, Mihai. “[Core Tatonnement](http://www.sciencedirect.com/science/article/pii/S0022053105002759).” _Journal of Economic Theory_ 133, no. 1 (2007): 331–349.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Non-cooperative implementations
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Binmore, Ken, Ariel Rubinstein, and Asher Wolinsky. “[The Nash Bargaining Solution in Economic Modeling](https://www.jstor.org/stable/2555382?seq=1#page_scan_tab_contents).” _RAND Journal of Economics_ 17, no. 2 (1986): 176–188.
 
@@ -284,9 +198,6 @@ Gul, Faruk. “[Bargaining Foundations of Shapley Value](http://www.jstor.org/st
 
 Perry, Motty, and Philip J Reny. “[A Noncooperative View of Coalition Formation and the Core](https://www.jstor.org/stable/2951733?seq=1#fndtn-page_scan_tab_contents).” _Econometrica_ 62, no. 4 (1994) 795–817.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
