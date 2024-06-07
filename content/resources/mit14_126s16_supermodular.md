@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding game theory.
 file: /courses/14-126-game-theory-spring-2016/1021599dba3552e2eb3bbf9deebf57a7_MIT14_126S16_supermodular.pdf
+file_size: 140149
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
