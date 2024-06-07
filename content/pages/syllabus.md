@@ -59,7 +59,7 @@ Take-home final exam
 Recommended Textbook
 --------------------
 
-{{% resource_link "d1b33f1f-48f7-497c-be5e-8338af82437c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Fudenberg, Drew, and Jean Tirole. _Game Theory_. MIT Press, 1991. ISBN: 9780262061414.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262061414) Fudenberg, Drew, and Jean Tirole. _Game Theory_. MIT Press, 1991. ISBN: 9780262061414.
 
 Topics
 ------
