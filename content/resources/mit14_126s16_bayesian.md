@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding game theory.
-file: /courses/14-126-game-theory-spring-2016/6c5872fe3409e4c0c10343b695347b4a_MIT14_126S16_bayesian.pdf
+file: /ol-ocw-studio-app/courses/14-126-game-theory-spring-2016/6c5872fe3409e4c0c10343b695347b4a_MIT14_126S16_bayesian.pdf
 file_size: 195714
 file_type: application/pdf
 learning_resource_types:
