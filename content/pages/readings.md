@@ -92,7 +92,7 @@ Stable equilibrium, the intuitive criterion, iterated weak dominance, epistemic 
 
 Kohlberg, Elon, and Jean-Francois Mertens. "[On the Strategic Stability of Equilibria](http://www.jstor.org/stable/1912320)." *Econometrica* 54, no. 5 (1986): 1003–37.
 
-Cho, In-Koo, and David M. Kreps. ["Signaling Games and Stable Equilibria." (PDF)](https://www2.bc.edu/thomas-chemmanur/phdfincorp/MF891%20papers/Cho%20Kreps%201987.pdf) *The Quarterly Journal of Economics* 102, no. 2 (1987): 179–221.
+Cho, In-Koo, and David M. Kreps. ["Signaling Games and Stable Equilibria."](https://www.jstor.org/stable/1885060) *The Quarterly Journal of Economics* 102, no. 2 (1987): 179–221.
 
 Battigalli, Pierpaola, and Marciano Siniscalchi. "[Strong Belief and Forward Induction Reasoning](http://dx.doi.org/10.1006/jeth.2001.2942)." *Journal of Economic Theory* 106, no. 2 (2002): 356–91.
 
@@ -126,9 +126,9 @@ Reputation with short-lived opponents
 
 Kreps, David M., and Robert Wilson. ["Reputation and Imperfect Information." (PDF - 1.6MB)](http://slantchev.ucsd.edu/courses/pdf/kreps-jet1982v27n2.pdf) *Journal of Economic Theory* 27, no. 2 (1982): 253–79.
 
-Milgrom, Paul, and John Roberts. "[Predation, Reputation and Entry Deterrence](http://dx.doi.org/10.1016/0022-0531(82)90031-X)." *Journal of Economic Theory* 27, no. 2 (1982): 280–312.
+Milgrom, Paul, and John Roberts. "[Predation, Reputation and Entry Deterrence](http://dx.doi.org/10.1016/0022-0531%2882%2990031-X)." *Journal of Economic Theory* 27, no. 2 (1982): 280–312.
 
-Kreps, David M., Paul Milgrom, et al. "[Rational Cooperation in the Finitely Repeated Prisoners' Dilemma](http://dx.doi.org/10.1016/0022-0531(82)90029-1)." *Journal of Economic Theory* 27, no. 2 (1982): 245–52.
+Kreps, David M., Paul Milgrom, et al. "[Rational Cooperation in the Finitely Repeated Prisoners' Dilemma](http://dx.doi.org/10.1016/0022-0531%2882%2990029-1)." *Journal of Economic Theory* 27, no. 2 (1982): 245–52.
 
 Levine, David K., and Drew Fudenberg. "[Reputation and Equilibrium Selection in Games with a Patient Player](http://www.econometricsociety.org/publications/econometrica/1989/07/01/reputation-and-equilibrium-selection-games-patient-player)." *Econometrica* 57, no. 4 (1989): 759–78.
 
@@ -140,7 +140,7 @@ Screening and reputation in bargaining
 
 \[Game Theory\] Chapter 10.
 
-Gul, Faruk,  Hugo Sonnenschein, and Robert Wilson. "[Foundations of Dynamic Monopoly and the Coase Conjecture](http://dx.doi.org/10.1016/0022-0531(86)90024-4)." *Journal of Economic Theory* 39, no. 1 (1986): 155–90.
+Gul, Faruk,  Hugo Sonnenschein, and Robert Wilson. "[Foundations of Dynamic Monopoly and the Coase Conjecture](http://dx.doi.org/10.1016/0022-0531%2886%2990024-4)." *Journal of Economic Theory* 39, no. 1 (1986): 155–90.
 
 Abreu, Dilip, and Faruk Gul. "[Bargaining and Reputation](http://dx.doi.org/10.1111/1468-0262.00094)." *Econometrica* 68, no. 1 (2000): 85–117.
 
