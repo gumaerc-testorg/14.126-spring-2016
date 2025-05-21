@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding game theory.
-file: /ol-ocw-studio-app/courses/14-126-game-theory-spring-2016/8a76b8f16b6c2c1dac0281cc7e194629_MIT14_126S16_reputation.pdf
+file: /courses/14-126-game-theory-spring-2016/8a76b8f16b6c2c1dac0281cc7e194629_MIT14_126S16_reputation.pdf
 file_size: 119368
 file_type: application/pdf
 learning_resource_types:
